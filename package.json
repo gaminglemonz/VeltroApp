@@ -1,9 +1,9 @@
 {
   "name": "veltroapp",
   "version": "0.0.2",
-  "main": "./bin/www",
+  "main": "bin/www",
   "scripts": {
-    "start": "node ./bin/www",
+    "start": "node bin/www",
     "clearchats": "node clearmessages.js"
   },
   "dependencies": {
